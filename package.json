@@ -1,0 +1,26 @@
+{
+  "name": "gopher",
+  "version": "0.0.1",
+  "description": "Gopher, a bot for Slack",
+  "main": "gopher.js",
+  "dependencies": {
+    "slack-client": "1.4.1",
+    "moment": "~2.10.3",
+    "underscore": "~1.8.3",
+    "async": "~0.2.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/MattCollins84/gopher.git"
+  },
+  "keywords": [
+    "Slack",
+    "Bot",
+    "Gopher"
+  ],
+  "author": "Matt Collins",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/MattCollins84/gopher/issues"
+  }
+}
